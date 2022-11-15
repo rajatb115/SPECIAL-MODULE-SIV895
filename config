@@ -1,0 +1,10 @@
+[config]
+words_max_len = 200
+chars_max_len = 200
+subwords_max_len = 20
+mode = 1
+emb_dim = 32
+emb_mode = 5
+batch_size = 128
+debug = False
+min_freq = 0
